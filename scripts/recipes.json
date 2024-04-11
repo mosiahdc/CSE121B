@@ -1,0 +1,227 @@
+[
+  {
+    "recipeName": "Spinach Tofu Scramble",
+    "meals": "Breakfast",
+    "category": "Healthy Breakfast",
+    "servingTime": "15 minutes",
+    "recipeSource": "Simply Recipes",
+    "recipeLink": "https://www.simplyrecipes.com/spinach-tofu-scramble-recipe-5215978",
+    "imageUrl": "https://www.simplyrecipes.com/thmb/-hxnyQRDCGJ0svhRI9Flb5-wS9w=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Spinach-Tofu-Scramble-LEAD-3-ee01fa1080ea4e16bbc980060084a55e.jpg"
+  },
+  {
+    "recipeName": "Wedge Salad Sandwich",
+    "meals": "Lunch",
+    "category": "Quick Lunch",
+    "servingTime": "10 minutes",
+    "recipeSource": "Simply Recipes",
+    "recipeLink": "https://www.simplyrecipes.com/wedge-salad-sandwich-recipe-7567061",
+    "imageUrl": "https://www.simplyrecipes.com/thmb/8V993uzRJPGM_O0EQA78P5pksp4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SimplyRecipes_WedgeSaladSandwich_LEAD_8-3f1dde8d66fe452e8cc44ec229c67185.jpg"
+  },
+  {
+    "recipeName": "Salisbury Ground Beef",
+    "meals": "Dinner",
+    "category": "Comfort Food",
+    "servingTime": "30 minutes",
+    "recipeSource": "Simply Recipes",
+    "recipeLink": "https://www.simplyrecipes.com/salisbury-ground-beef-recipe-8605396",
+    "imageUrl": "https://www.simplyrecipes.com/thmb/xfdq0UrARznU8Y0adCMhM2jlIg8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Salisbury-Ground-Beef-LEAD-7-e3f52ffa292e46de9cd01cea8d7ececd.jpg"
+  },
+  {
+    "recipeName": "No-Bake Pumpkin Pie",
+    "meals": "Dessert",
+    "category": "Easy Desserts",
+    "servingTime": "28 minutes",
+    "recipeSource": "Simply Recipes",
+    "recipeLink": "https://www.simplyrecipes.com/no-bake-pumpkin-pie-recipe-8387298",
+    "imageUrl": "https://www.simplyrecipes.com/thmb/wC7DWEt7N6IR-IaapJ_JVTniMkg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-No-Bake-Pumpkin-Pie-LEAD-1-37bd6d8819864b068b574ec7d23c066c.jpg"
+  },
+  {
+    "recipeName": "French Omelette",
+    "meals": "Breakfast",
+    "category": "Easy Breakfast",
+    "servingTime": "8 minutes",
+    "recipeSource": "Simply Recipes",
+    "recipeLink": "https://www.simplyrecipes.com/french-omelette-recipe-5272297",
+    "imageUrl": "https://www.simplyrecipes.com/thmb/4UuWv6U427Exu3DxEIE800CG9jI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-French-Omlette-LEAD-05-3c570f5e0ef54576a41034d3ad598eeb.jpg"
+  },
+  {
+    "recipeName": "Chickpea Panini",
+    "meals": "Lunch",
+    "category": "Sandwiches",
+    "servingTime": "10 minutes",
+    "recipeSource": "Simply Recipes",
+    "recipeLink": "https://www.simplyrecipes.com/chickpea-panini-recipe-6281064",
+    "imageUrl": "https://www.simplyrecipes.com/thmb/fOmmJ3WbMV-C4XGO-mKhHnU9ma8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Chickpea-Panini-METHOD-3-5d18c348b1b7428c906ded6a229c71b7.jpg"
+  },
+  {
+    "recipeName": "Fondant Potatoes",
+    "meals": "Dinner",
+    "category": "Side Dishes",
+    "servingTime": "45 minutes",
+    "recipeSource": "Simply Recipes",
+    "recipeLink": "https://www.simplyrecipes.com/fondant-potatoes-recipe-8382635",
+    "imageUrl": "https://www.simplyrecipes.com/thmb/ZLUz1q546zNQ15K-jsfJ-nYc6jw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Fondant-Potatoes-LEAD-01-6b084ef9f4344a929c9b2cc7f053ecce.jpg"
+  },
+  {
+    "recipeName": "Bananas Foster",
+    "meals": "Dessert",
+    "category": "Dessert Sauces",
+    "servingTime": "10 minutes",
+    "recipeSource": "Simply Recipes",
+    "recipeLink": "https://www.simplyrecipes.com/no-bake-pumpkin-pie-recipe-8387298",
+    "imageUrl": "https://www.simplyrecipes.com/thmb/a-5tu2zpf3s5ys29SFCyRJzmL2M=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Bananas-Foster-Lead-3-e7aa1f3b45184f15a33a98a64ccd6fc0.jpg"
+  },
+  {
+    "recipeName": "Tempeh Bacon",
+    "meals": "Breakfast",
+    "category": "Vegan",
+    "servingTime": "25 minutes",
+    "recipeSource": "Simply Recipes",
+    "recipeLink": "https://www.simplyrecipes.com/tempeh-bacon-recipe-5199331",
+    "imageUrl": "https://www.simplyrecipes.com/thmb/RUbG1UwoKxNllqa-b9UQ-OV3y_4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Tempeh-Bacon-LEAD-3-d96dc11f0bf04175affc1efaa55323f5.jpg"
+  },
+  {
+    "recipeName": "Cinnamon Sticky Buns",
+    "meals": "Breakfast",
+    "category": "Brunch",
+    "servingTime": "75 minutes",
+    "recipeSource": "Simply Recipes",
+    "recipeLink": "https://www.simplyrecipes.com/recipes/cinnamon_sticky_buns/",
+    "imageUrl": "https://www.simplyrecipes.com/thmb/46-MJTvHG3ImSO64DaJNbmyM_jY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cinnamon-Sticky-Buns-LEAD-2-ab70f3e3f8294b3ead8396e16e1306a6.jpg"
+  },
+  {
+    "recipeName": "Red Flannel Hash",
+    "meals": "Lunch",
+    "category": "Salads",
+    "servingTime": "25 minutes",
+    "recipeSource": "Simply Recipes",
+    "recipeLink": "https://www.simplyrecipes.com/recipes/red_flannel_hash/",
+    "imageUrl": "https://www.simplyrecipes.com/thmb/yCDaKu8hxNHIkaiK_QGRSXl2D-4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2011__03__red-flannel-hash-horiz-a2-1800-52e5c235b16c4c46bc5a716a6bfd98ba.jpg"
+  },
+  {
+    "recipeName": "Golden Beet and Pomegranate Salad",
+    "meals": "Lunch",
+    "category": "Salads",
+    "servingTime": "80 minutes",
+    "recipeSource": "Simply Recipes",
+    "recipeLink": "https://www.simplyrecipes.com/recipes/golden_beet_and_pomegranate_salad/",
+    "imageUrl": "https://www.simplyrecipes.com/thmb/ZNmAXpoFYFUBJFSpz9Elc8ueIaY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2005__11__golden-beet-pomegranate-salad-horiz-c-1600-dfe3a0ce60234556a71c1e22f95f69df.jpg"
+  },
+  {
+    "recipeName": "Chipotle Chicken Chowder",
+    "meals": "Lunch",
+    "category": "Soups",
+    "servingTime": "65 minutes",
+    "recipeSource": "Simply Recipes",
+    "recipeLink": "https://www.simplyrecipes.com/chipotle-chicken-chowder-recipe-6746462",
+    "imageUrl": "https://www.simplyrecipes.com/thmb/Y3Ve-JfkNFYIllRRsX486vniYfQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Chipotle-Chicken-Chowder-LEAD-02-c1615aa5dc9d4d15845a8d08d6b3d9da.jpg"
+  },
+  {
+    "recipeName": "Spicy Zucchini Soup",
+    "meals": "Lunch",
+    "category": "Soups",
+    "servingTime": "55 minutes",
+    "recipeSource": "Simply Recipes",
+    "recipeLink": "https://www.simplyrecipes.com/recipes/spicy_zucchini_soup/",
+    "imageUrl": "https://www.simplyrecipes.com/thmb/tDCRZshchCxQDAVItkPh8duqxb0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2010__08__spicy-zucchini-soup-640-1810599ffd0241929ff24d05dc159954.jpg"
+  },
+  {
+    "recipeName": "Fresh Corn Pasta",
+    "meals": "Dinner",
+    "category": "Dinner For Two",
+    "servingTime": "30 minutes",
+    "recipeSource": "Simply Recipes",
+    "recipeLink": "https://www.simplyrecipes.com/fresh-corn-pasta-recipe-5498381",
+    "imageUrl": "https://www.simplyrecipes.com/thmb/z8OxfS2EBNimYv68DFU68cxtiM0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Creamy-Corn-Pasta_LEAD-2-52076d113d4f4fa2bdb656513f31c070.jpg"
+  },
+  {
+    "recipeName": "Creamy Cavatappi",
+    "meals": "Dinner",
+    "category": "Dinner For Two",
+    "servingTime": "22 minutes",
+    "recipeSource": "Simply Recipes",
+    "recipeLink": "https://www.simplyrecipes.com/creamy-cavatappi-recipe-7503493",
+    "imageUrl": "https://www.simplyrecipes.com/thmb/4EdtV52NvOw5q_HWc5NMfkF3Sgs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Creamy-Cavatappi-LEAD-32-d986fb6859674f9bbba90af412c61a6b.jpg"
+  },
+  {
+    "recipeName": "Caprese Pasta",
+    "meals": "Dinner",
+    "category": "Budget Dinners",
+    "servingTime": "30 minutes",
+    "recipeSource": "Simply Recipes",
+    "recipeLink": "https://www.simplyrecipes.com/5-ingredient-warm-caprese-pasta-recipe-7966566",
+    "imageUrl": "https://www.simplyrecipes.com/thmb/VX64uBjKXEYIOWLTIw9IIDC-CpE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Warm-Caprese-Pasta-LEAD-4f540c9526254a26a4614800d87f0f44.jpg"
+  },
+  {
+    "recipeName": "Easy Meatloaf",
+    "meals": "Dinner",
+    "category": "Budget Dinners",
+    "servingTime": "90 minutes",
+    "recipeSource": "Simply Recipes",
+    "recipeLink": "https://www.simplyrecipes.com/easy-meatloaf-recipe-7551214",
+    "imageUrl": "https://www.simplyrecipes.com/thmb/Ft3tx4cSiAXhLyLlEFlB4arTugo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Easy-Meatloaf-LEAD-20-87b97321df21443cb90cad36aeac43da.jpg"
+  },
+  {
+    "recipeName": "Date Skillet Cookie",
+    "meals": "Dessert",
+    "category": "Easy Desserts",
+    "servingTime": "25 minutes",
+    "recipeSource": "Simply Recipes",
+    "recipeLink": "https://www.simplyrecipes.com/date-skillet-cookie-recipe-8414352",
+    "imageUrl": "https://www.simplyrecipes.com/thmb/UKjTLgdrx_idbnzknsD_sgTNsDg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Date-Skillet-Cookies-LEAD-1dfd9ec0b8a141a48c1babea0fb985a0.jpg"
+  },
+  {
+    "recipeName": "Caramel Apple Oatmeal Bars",
+    "meals": "Dessert",
+    "category": "Easy Desserts",
+    "servingTime": "50 minutes",
+    "recipeSource": "Simply Recipes",
+    "recipeLink": "https://www.simplyrecipes.com/caramel-apple-oatmeal-bars-recipe-8364022",
+    "imageUrl": "https://www.simplyrecipes.com/thmb/tvCxYETC5Kx2GSaaGMJE42cCrPg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Caramel-Apple-Oat-Bars-LEAD-3-f23b9affac11468881cfad908cb539aa.jpg"
+  },
+  {
+    "recipeName": "Turkish Delight (Lokum)",
+    "meals": "Dessert",
+    "category": "Desserts By Diet",
+    "servingTime": "102 minutes",
+    "recipeSource": "Simply Recipes",
+    "recipeLink": "https://www.simplyrecipes.com/turkish-delight-lokum-recipe-7187442",
+    "imageUrl": "https://www.simplyrecipes.com/thmb/CniewGCHVwxv5ep48h2x1De2RFU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SimplyRecipes-TurkishDelight-LEAD-10-ab9d70ccdfa74f6f8b4e853a84b64de6.jpg"
+  },
+  {
+    "recipeName": "Tamagoyaki",
+    "meals": "Breakfast",
+    "category": "Healthy Breakfast",
+    "servingTime": "20 minutes",
+    "recipeSource": "Simply Recipes",
+    "recipeLink": "https://www.simplyrecipes.com/tamagoyaki-recipe-5272304",
+    "imageUrl": "https://www.simplyrecipes.com/thmb/v3xMvnUAO3GCDFcLjU0Lpqyn6sA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Tamagoyaki-LEAD-08-d4039f51092846179a9146a873a6d192.jpg"
+  },
+  {
+    "recipeName": "Creamy White Lasagna Soup",
+    "meals": "Dinner",
+    "category": "Comfort Food",
+    "servingTime": "50 minutes",
+    "recipeSource": "Simply Recipes",
+    "recipeLink": "https://www.simplyrecipes.com/white-chicken-lasagna-soup-recipe-8574813",
+    "imageUrl": "https://www.simplyrecipes.com/thmb/kunC1IUKj9ROb3YBuZo6spKtBNs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-White-Lasagna-Soup-LEAD-12-5f2391c3875d45159ea0bfcede29d42c.jpg"
+  },
+  {
+    "recipeName": "Million Dollar Chicken",
+    "meals": "Dinner",
+    "category": "Comfort Food",
+    "servingTime": "25 minutes",
+    "recipeSource": "Simply Recipes",
+    "recipeLink": "https://www.simplyrecipes.com/million-dollar-chicken-recipe-8347158",
+    "imageUrl": "https://www.simplyrecipes.com/thmb/gEeWwPdZww669J0DjCW2iMLR1PA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Million-Dollar-Chicken-LEAD-2-0a8ceb013c2e442a9b6670d9c9e7c06e.jpg"
+  },
+  {
+    "recipeName": "Kimchi and Spam Fried Rice",
+    "meals": "Lunch",
+    "category": "Comfort Food",
+    "servingTime": "30 minutes",
+    "recipeSource": "Simply Recipes",
+    "recipeLink": "https://www.simplyrecipes.com/kimchi-and-spam-fried-rice-recipe-8382603",
+    "imageUrl": "https://www.simplyrecipes.com/thmb/rvmI-URSmWvgIiA3nXqmwPJNTEU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Kimchi-Spam-Rice-LEAD-03-c188c3817c014fe4b86fc8e2a1b0c07c.jpg"
+  }
+]

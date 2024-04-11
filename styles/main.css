@@ -246,7 +246,7 @@ footer {
     color: #eee;
 }
 
-#temples {
+#temples, #recipes {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
     grid-gap: .5rem;
@@ -254,8 +254,8 @@ footer {
     margin-bottom: 3rem;
 }
 
-#temples article {
-    height: 250px;
+#temples article, #recipes article {
+    height: 300px;
     margin: .5rem;
     border: 1px solid rgba(0, 0, 0, .1);
     padding: 1rem;
@@ -266,13 +266,13 @@ footer {
     justify-content: center;
 }
 
-#temples h4 {
+#temples h4, #recipes h4 {
     color: navy;
     font-size: smaller;
 }
 
 
-#temples img {
+#temples img, #recipes img {
     width: 250px;
     height: auto;
     box-shadow: 0 0 30px #777;
